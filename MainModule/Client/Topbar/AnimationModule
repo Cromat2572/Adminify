@@ -1,0 +1,36 @@
+--[[
+	@author TwinPlayzDev_YT
+	@since 7/25/2021
+--]]
+
+--[[ LOCALS ]] --
+
+local Module = {}
+
+--[[ UNLOCKED ANIMATIONS (DEFAULT/FREE) ]] --
+
+Module.UnlockedAnimations = {
+	
+	-- COPY AND PASTE FROM HERE 
+	{
+		"Hype";
+		"rbxassetid://6289274501";
+	};
+	-- TO HERE BELOW
+}
+
+--[[ LOCKED ANIMATIONS (PAID/GROUP SPECIAL) ]] --
+
+Module.LockedAnimations = {
+	
+	-- COPY AND PASTE FROM HERE 
+	{
+		"FreeStylin";
+		"rbxassetid://6289307170";
+	};
+	-- TO HERE BELOW
+}
+
+--[[ RETURNING MODULE HERE ]] --
+
+return Module
